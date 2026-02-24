@@ -5,7 +5,7 @@ Yazılım ve veri analizi üzerine projeler geliştiriyorum.
 
 ### 💻 Neler Yapıyorum?
 * **Web:** Python & Django projeleri.
-* **Veri:** Selenium ile veri kazıma (Kozmetik yorum analizleri gibi).
+* **Veri:** Selenium ile veri kazıma.
 * **Akademik:** Havacılıkta yapay zeka üzerine çalışmalar (TÜBİTAK 2209-A).
 
 ---
