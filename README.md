@@ -1,16 +1,16 @@
-## Hi there 👋
+Selam, ben Aslı Zeynep! 
 
-<!--
-**aslizeya/aslizeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gazi Üniversitesi'nde Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim. Yazılım geliştirme ve veri analizi üzerine projeler üretiyorum.
 
-Here are some ideas to get you started:
+Teknolojiler ve Yetenekler
+- **Diller:** Python, C#, SQL
+- **Web:** Django, HTML/CSS
+- **Veri:** Selenium (Web Scraping)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projelerim
+* **Filo Takip Sistemi:** Django ile geliştirilen araç yönetim portalı.
+* **Kozmetik Yorum Analizi:** Selenium ile veri kazıma ve analiz projesi.
+* **TÜBİTAK 2209-A:** Havacılıkta yapay zeka üzerine akademik araştırma.
+
+---
+Bana ulaşmak için LinkedIn profilimi ziyaret edebilirsin!
