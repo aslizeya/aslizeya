@@ -7,3 +7,7 @@ Yazılım ve veri analizi üzerine projeler geliştiriyorum.
 * **Web:** Python & Django projeleri.
 * **Veri:** Selenium ile veri kazıma (Kozmetik yorum analizleri gibi).
 * **Akademik:** Havacılıkta yapay zeka üzerine çalışmalar (TÜBİTAK 2209-A).
+
+---
+### 📫 İletişim
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_PROFIL_LINKIN_BURAYA](https://www.linkedin.com/in/asl%C4%B1-zeynep-aydemir-a86208361/?originalSubdomain=tr))
