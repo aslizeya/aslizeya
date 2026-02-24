@@ -1,4 +1,4 @@
-# Selam, ben Aslı Zeynep! 👋
+# Selam, ben Aslı Zeynep Aydemir! 
 
 Gazi Üniversitesi'nde Yönetim Bilişim Sistemleri (YBS) 2. sınıf öğrencisiyim.
 Yazılım ve veri analizi üzerine projeler geliştiriyorum.
